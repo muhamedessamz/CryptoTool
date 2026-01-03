@@ -68,7 +68,7 @@ This tool offers a robust implementation of various cryptographic techniques:
 ---
 
 <p align="center">
-  <strong style="font-size:20px;">Mohamed Essam</strong><br><br>
+  <strong style="font-size:20px;">Mohamed Essam </strong><br><br>
   <a href="https://www.linkedin.com/in/mohamedessamz/" >
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
